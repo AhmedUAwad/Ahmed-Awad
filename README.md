@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Awad</h1>
-<h3 align="center">An Embedded Software trainer developer from Egypt</h3>
+<h3 align="center">Communication Engineering Student | Entry Level Embebbed Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmeduawad&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeduawad" /> </p>
 
