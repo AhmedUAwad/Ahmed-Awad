@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://twitter.com/ahmeduawad" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeduawad?logo=twitter&style=for-the-badge" alt="ahmeduawad" /></a> </p>
 
-- 🌱 I’m currently learning **AVR Interfacing**
+- 🌱 I’m currently learning **Communication & Electronics Engineering**
 
 - 📫 How to reach me **ahmed3wad1412@gmail.com**
 
